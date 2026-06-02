@@ -1,4 +1,4 @@
-# Payment Manager
+# Gerenciador de Pagamento
 
 Aplicação web desenvolvida com **React + Vite + CSS puro**, com o objetivo de gerenciar pagamentos de forma simples, organizada e didática.
 
